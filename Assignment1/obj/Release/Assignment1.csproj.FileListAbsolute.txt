@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Assignment1\Assignment1\bin\Release\Assignment1.exe.config
+C:\Users\HP\source\repos\Assignment1\Assignment1\bin\Release\Assignment1.exe
+C:\Users\HP\source\repos\Assignment1\Assignment1\bin\Release\Assignment1.pdb
+C:\Users\HP\source\repos\Assignment1\Assignment1\obj\Release\Assignment1.Form1.resources
+C:\Users\HP\source\repos\Assignment1\Assignment1\obj\Release\Assignment1.Properties.Resources.resources
+C:\Users\HP\source\repos\Assignment1\Assignment1\obj\Release\Assignment1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Assignment1\Assignment1\obj\Release\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignment1\Assignment1\obj\Release\Assignment1.exe
+C:\Users\HP\source\repos\Assignment1\Assignment1\obj\Release\Assignment1.pdb
