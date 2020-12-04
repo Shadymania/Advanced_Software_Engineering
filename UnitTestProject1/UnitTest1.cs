@@ -18,7 +18,10 @@ namespace UnitTestProject1
     {
         [TestMethod]
 
-        
+        ////
+        /// This method used to test the cursor point in the canvas to the right
+        ///
+
         public void Test_Moveto_Right_value()
         {
             var v = new CommandParser();
